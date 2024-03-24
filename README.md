@@ -1,4 +1,4 @@
-## Crypto Clustering
+## CryptoClustering
 
 **Description:**  
 This repository contains the code for clustering cryptocurrencies using K-means and Principal Component Analysis (PCA). The analysis is performed on the `crypto_market_data.csv` dataset, which contains information about various cryptocurrencies.
